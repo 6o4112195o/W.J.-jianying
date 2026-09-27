@@ -36,6 +36,8 @@ Windows 另提供独立的 FFmpeg 路径：从剪辑计划生成已校验的渲�
 Windows 云端使用本仓库公开 IG 案例验证了完整解码、帧数与音量；
 使用方法和限制见 [Windows FFmpeg 导出](docs/windows-ffmpeg.md)。
 
+该独立导出后端由 [@instantgoing](https://github.com/instantgoing) 在 [PR #1](https://github.com/mcncarl/jianying-headless/pull/1) 中贡献。
+
 ## Hypit 协作案例
 
 一个约 **50.23 秒**的 IG 滚动动画教程展示了从 Hypit 到剪映的工程交接。
